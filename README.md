@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&random=false&width=600&lines=Hi+👋+I'm+Arul+Paul;Founder+%26+Engineering+Lead;Building+apps+that+solve+real+problems&align=center" alt="Typing SVG" />
 </a>
 
@@ -18,8 +17,6 @@
 - 🔧 **10+ years** of experience in frontend & full-stack engineering across Angular, Node.js, and Python
 - 🅰️ **Angular specialist** — from AngularJS to Angular 11+, building performant, scalable UIs
 - ⚡ Passionate about **product-driven engineering** — balancing deep technical execution with strategic oversight
-- 🗺️ Previously **founded Ancestor Maps** — a maps-based company using ML/PCA for genetic mapping
-- 📍 Based in **Denver Metropolitan Area**
 - 🎓 **Computer Engineering** — North Dakota State University
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/arul-paul-48794614/)
 
@@ -108,16 +105,6 @@
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apauldev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apauldev&layout=compact&theme=radical" />
-
-</div>
 
 ---
 
