@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&random=false&width=600&lines=Hi+👋+I'm+Arul+Paul;Founder+%26+Engineering+Lead;Building+apps+that+solve+real+problems&align=center" alt="Typing SVG" />
-</a>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arul-paul-48794614/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apauldev)
 
@@ -14,12 +9,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **Founder & Engineering Lead** at [**Tarkshya Labs**](https://tarkshyalabs.com/) — building apps that solve real problems
-- 🔧 **10+ years** of experience in frontend & full-stack engineering across Angular, Node.js, and Python
-- 🅰️ **Angular specialist** — from AngularJS to Angular 11+, building performant, scalable UIs
-- ⚡ Passionate about **product-driven engineering** — balancing deep technical execution with strategic oversight
-- 🎓 **Computer Engineering** — North Dakota State University
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/arul-paul-48794614/)
+- **Founder & Engineering Lead** at [**Tarkshya Labs**](https://tarkshyalabs.com/) — building apps that solve real problems
+- **10+ years** of experience in frontend & full-stack engineering across Angular, Node.js, and Python
+- **Angular specialist** — from AngularJS to Angular 11+, building performant, scalable UIs
+- Passionate about **product-driven engineering** — balancing deep technical execution with strategic oversight
+- **Computer Engineering** — North Dakota State University
+- Reach me on [LinkedIn](https://www.linkedin.com/in/arul-paul-48794614/)
 
 ---
 
