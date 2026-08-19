@@ -126,7 +126,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Yotara**](https://github.com/apauldev/Yotara) | Open-source task management — simple for you, seamless for small teams | TypeScript, Angular, Fastify |
+| [**Yotara**](https://github.com/apauldev/Yotara) | Open-source self-hosted task manager — calm, focused, and data-sovereign | Angular 22, Fastify 5, TypeScript, SQLite, Drizzle ORM, Tailwind CSS, Better Auth, Docker, Playwright, GitHub Actions, pnpm monorepo |
 | [**HinglishKosh**](https://github.com/apauldev/HinglishKosh) | Hinglish Dictionary | Python |
 | [**Ancestor Maps**](https://tarkshyalabs.com/) | Maps-based genetic ancestry platform using ML/PCA dimensionality reduction | Angular, Python, NestJS |
 
